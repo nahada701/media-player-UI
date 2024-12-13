@@ -1,4 +1,4 @@
-import commenAPI from "./commenapi";
+import commenAPI from "./commenAPI";
 import { server_url } from "./serviceUrl";
 
 // api call to add video in allVideos
